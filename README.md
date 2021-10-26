@@ -26,6 +26,10 @@ Machine Learning Model 2: Logistic Regression
  ## Conclusion
  
  Summarized the results of the machine learning models, and include a recommendation on the model to use.
+ 
+ ## Presentation Link
+ 
+ https://prezi.com/view/dKgzZJe5ImFpT6voKZ8W/
 
 ## Contributors
 
