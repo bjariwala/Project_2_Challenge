@@ -1,4 +1,4 @@
-# Project_2_Challenge - Personal Loan Campaign 
+# Personal Loan Campaign 
 ---
 ## Problem Statement & Objective
 A bank wants to improve the acquisition of customers to their personal loan scheme from current customer database. The objective of the report is to build a model which can classify the right customers who have a  higher probability of purchasing the loan. Which segment should be targeted more and reflect upon the performance of the models and find the best model.
